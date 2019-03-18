@@ -1,0 +1,67 @@
+
+.margin-top50 {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.visa-page{
+  height: 120px;
+  width: 120px;
+}
+.carte {
+
+  height: 430px;
+  width: 600px;
+  border: 0;
+  border-radius: 10px;
+  text-align: left;
+  padding: 20px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg) no-repeat center center; 
+  background-size: cover;
+  color: white;
+}
+  .credit__bank {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .visa-puce{
+    width: 100px;
+    height: 80px;
+  }
+  .credit__mc {
+    width: 80px;
+    float: right;
+  }
+  .credit-card-number{
+    height: 91px;
+    padding-top: 10px;
+    
+    font-size: 32px;
+    letter-spacing: 2px;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+
+  .menu{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+  }
+  
+  .credit__date{
+    text-transform: uppercase !important;
+    color: darkorange !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    height: 25px !important;
+  }
+  .credit__name{
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    height: 25px !important;
+  }
